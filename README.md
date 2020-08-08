@@ -2,4 +2,4 @@ Selenium Java Project
 
 Designed to add new connections on LinkedIn
 
-! [gif] (https://github.com/dmitri-dev/Selenium-LinkedIn/blob/master/recording-gif.mp4)
+! [] (https://github.com/dmitri-dev/Selenium-LinkedIn/blob/master/recording-gif.gif)
