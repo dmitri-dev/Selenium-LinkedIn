@@ -13,10 +13,6 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-// imoham@boranora.com
-// Test PW: Password1!
-// Ernesto Roboto
-
 public class MainPageTest {
     public static WebDriver Mydriver = new ChromeDriver();
     @Test
