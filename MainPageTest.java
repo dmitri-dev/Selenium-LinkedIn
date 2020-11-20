@@ -18,7 +18,7 @@ public class MainPageTest {
     @Test
     public void openPage() throws InterruptedException {
         String username = "pzohir.beddiar.7@mymailcr.com";
-        String password = "Password1!";
+        String password = "password";
         System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
         WebDriver driver = MainPageTest.Mydriver;
         driver.manage().window().maximize();
